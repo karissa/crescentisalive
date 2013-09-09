@@ -1,5 +1,5 @@
 body {
-    background-color: #fff !important;
+    background-color: black !important;
 }
 
 h1, h2, h3 {
@@ -63,14 +63,18 @@ a {
     font-style: bold;
 }
 
+.footer, .footer a {
+    font-size: 12px !important;
+    color: white;
+}
+
 a:hover {
     color: white !important;
 
 }
-@media only screen and (max-device-width: 480px) 
+@media max-device-width: 480px
 {
     a {
         font-size: 18px;
     }
-
 }

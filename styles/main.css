@@ -80,6 +80,10 @@ a:hover {
     text-align: center;
 }
 
+#updates h2 {
+    color: black;
+}
+
 @media(max-device-width: 480px) {
     .menu {
         display: none !important;

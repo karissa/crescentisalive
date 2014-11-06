@@ -82,6 +82,7 @@ a:hover {
 
 #updates h2 {
     color: black;
+    text-align: right;
 }
 
 @media(max-device-width: 480px) {
